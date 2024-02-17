@@ -1,0 +1,1 @@
+Merge Conflict terjadi saat 2 branch merubah bagian yang sama dari suatu file dan git tidak dapat menggabungkan nya secara otomatis. cara menyelesaikannya adalah dengan secara manual memilih bagian mana yang akan dipakai dari 2 branch dan hal ini dilakukan di code editor masing masing dan sudah ditunjukkan mana perbedaannya (penyebab konflik)
