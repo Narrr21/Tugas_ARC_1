@@ -1,0 +1,1 @@
+git rebase digunnakan untuk membuat commit menjadi lebih rapi dari branch berbeda. misalkan ada branch yang belum di merge dan master branch, jika dilakukan git rebase, commit di merge akan masuk ke master, tanpa merubah data commit yang ada di master sehingga menjadi 1 jalur.
